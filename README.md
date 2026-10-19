@@ -17,6 +17,12 @@ For everything else, catch me at the Unibar for a coffee or write me at [my mail
 
 ### Publications
 
+- [Conceptual Alignment to Promote Discussion and Empathy towards Disability in Teenagers: a Protocol Proposal](https://dl.acm.org/doi/10.1145/3776591.3833847)
+
+- [Conceptual Alignment through Large Language Models: A Case Study in an Educational Context](https://dl.acm.org/doi/full/10.1145/3811427.3811462)
+
+- [Conceptual Alignment in Human-Centered Design Teams through Critical Reflection on Large Language Models](https://ceur-ws.org/Vol-4266/paper06.pdf)
+
 - [Workshops and Hybrid Toolkits for Communicating Across Disciplines](https://dl.acm.org/doi/full/10.1145/3750069.3750087)
 
 - [NounAtlas: Filling the Gap in Nominal Semantic Role Labeling](https://aclanthology.org/2024.acl-long.857/)
